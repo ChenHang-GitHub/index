@@ -6,6 +6,6 @@ public class HelloWorld {
  System.out.println("1"); 
  System.out.println("2"); 
  
-
+        System.out.println("Hello World"); // ¥Ú”° Hello World
     }
 }
